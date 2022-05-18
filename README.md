@@ -1,2 +1,2 @@
 # TuringTestAttempt
-C++ chatbot to try and pass the Turing Test
+C++ Chatbot to try and pass the Turing Test
